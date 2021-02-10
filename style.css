@@ -1,0 +1,18 @@
+body {background-color: #E9FCD7;
+font-family: Georgia, serif;
+}
+h1 {background-color: #89D78A;
+font-size: 30px;
+color: #534B39;
+}
+h2 {background-color: #D7E9FC;
+font-size: 20px;
+color: #556E8A;
+border: double;
+border-color: indigo;
+}
+p {background-color: #D7FCD8;
+font-size: 16px;
+border: solid;
+border-color: #5F543E;
+}
