@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  
+<head>
+  <title> Insurances </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h2>
+    Insurances
+  </h2>
+  <p>
+    <a href="https://www.iii.org/publications/insurance-handbook/insurance-basics/auto-insurance-basics"> Automobile </a>
+ 	  <br/>     
+	    Automobile insurance is purchased by a car owner and the insurance company. This contract will cover property, medical, and liability issues. Property will cover car damages or car theft, medical covers any injuries and funeral expenses, and liability covers any legal responsibilities to others. Many states require auto owners to have automobile insurance to be able to legally drive.
+  </p>
+  <p>
+    <a href="https://www.policygenius.com/health-insurance/learn/health-insurance-basics-and-guide/"> Health </a>
+      <br/>
+	  Health insurance covers medical expenses. It covers many but not all injuries, and doctors visits. Health insurance consists of your premium, deductibles, copayment, coinsurance, and your out-of-pocket limit. Premium is the monthly bill you pay to the insurance company, but not all medical expenses. Deductibles are the amount of money you pay yourself before the health insurance, copayment is the fixed amount you have to pay for a prescription, coinsurance is a percentage that your insurance agrees to pay, and out-of-pocket limit is the maximum amount of money you pay a year towards insurance covered health care. Different people with different backgrounds are geared toward different types, (ex: employer provided or senior citizen)
+  </p>
+  <p>
+    <a href="https://www.iii.org/article/what-homeowners-insurance"> Homeowner’s/renter’s </a>
+      <br/>
+	  Homeowners insurance is paid for the building in which you own while renter’s is for landlords who expect you to pay a percentage to cover your property in the building you live in. It is usually paid monthly or annually.
+  </p>
+  <p>
+    <a href="https://www.iii.org/article/life-insurance-basics"> Whole life and term life </a>
+      <br/>
+	  life insurance. A term life insurance is only given if the death occurs within the term, usually from one to 30 years while a whole life is paid for the whole lifespan of said person. Whole life also accumulates cash value over time.
+  </p>
+ </body>
+ </html>
