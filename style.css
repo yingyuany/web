@@ -89,7 +89,8 @@ ul {
 	width: 100%;
 	text-align: center;
 	background-color: #4bb477;
-	height: 42px
+	height: 42px;
+	display: inline-block;
 }
 
 li {
