@@ -91,6 +91,7 @@ ul {
 	text-align: center;
 	background-color: #4bb477;
 	height: 42px;
+	list-style-type:none;
 	display: inline-block;
 }
 
