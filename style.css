@@ -79,6 +79,7 @@ footer{
 
 nav {
     border-bottom: 1px solid #4bb477;
+	display: inline-block;
 	
 }
 
