@@ -31,9 +31,19 @@ cent{
 	width:25%;
 }
 
+.cent{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width:500px
+}
+
 table{
 	border: no-border;
-	height: 300px}
+	text-align: cent;
+	margin-left:100px;
+	margin-right:100px;
+	}
 
 h1 {
 	font-size: 30px;
@@ -46,7 +56,9 @@ td, th {
 	border:no-border;
 	font-size: 30px;
 	color: #534B39;
-	text-align: center}
+	text-align: center;
+	width: 400px
+}
 	
 h2 {
 	font-size: 30px;
@@ -62,7 +74,7 @@ h3 {
 }
 
 p {
-	font-size: 16px;
+	font-size: 20px;
 	border-color: #5F543E;
 
 }
@@ -119,3 +131,16 @@ ul a.active {
 	background-color: #625e5f;
 	color: white;
 }
+
+.column {
+  float: left;
+  width: 30%;
+  padding: 5px;
+}
+
+.row:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
